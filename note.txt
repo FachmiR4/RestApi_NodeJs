@@ -1,0 +1,5 @@
+#1 npx prisma init --datasource-provider postgresql => untuk menginstall scmae di folder nodeJS
+#2 lalu membuat schema di folde prisma 
+#3 npx prisma db push => untuk push data ke db
+#4 npx prisma studio => untuk melakukan insert data di editor studio prisma yang sudah disediakan dibrowser
+
